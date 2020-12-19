@@ -1,6 +1,6 @@
 # Rakesh
 
-this project regarding maintaing attendance with face recognation using Open CV. 
+This project regarding maintaining attendance with face recognation using Open CV. 
 this program will recognise the face of the cadidate which are previously uploaded 
 pictures of candidates with filename as there name in seperate folder in the 
 pc drive/ google drive or other colud and once program initialize which use the webcam of the pc 
